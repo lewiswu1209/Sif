@@ -1,0 +1,5 @@
+current_dir=$(cd `dirname $0`; pwd)
+sif_dir=$(cd $current_dir"/../"; pwd)
+cd $sif_dir"/auxiliary/wesng/"
+python3 wes.py $*
+

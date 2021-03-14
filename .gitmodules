@@ -1,0 +1,36 @@
+[submodule "auxiliary/Atlas"]
+	path = auxiliary/Atlas
+	url = https://github.com/m4ll0k/Atlas.git
+[submodule "auxiliary/Fast-Google-Dorks-Scan"]
+	path = auxiliary/Fast-Google-Dorks-Scan
+	url = https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan.git
+[submodule "auxiliary/GitHack"]
+	path = auxiliary/GitHack
+	url = https://github.com/BugScanTeam/GitHack.git
+[submodule "auxiliary/dirmap"]
+	path = auxiliary/dirmap
+	url = https://github.com/H4ckForJob/dirmap.git
+[submodule "auxiliary/wesng"]
+	path = auxiliary/wesng
+	url = https://github.com/bitsadmin/wesng.git
+[submodule "auxiliary/dirsearch"]
+	path = auxiliary/dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "auxiliary/AngelSword"]
+	path = auxiliary/AngelSword
+	url = https://github.com/Lucifer1993/AngelSword.git
+[submodule "data/fuzzDicts"]
+	path = data/fuzzDicts
+	url = https://github.com/TheKingOfDuck/fuzzDicts.git
+[submodule "exploit/PHPStudy_BackDoor_Exp"]
+	path = exploit/PHPStudy_BackDoor_Exp
+	url = https://github.com/NS-Sp4ce/PHPStudy_BackDoor_Exp.git
+[submodule "exploit/Struts2-Scan"]
+	path = exploit/Struts2-Scan
+	url = https://github.com/HatBoy/Struts2-Scan.git
+[submodule "exploit/tp5-getshell"]
+	path = exploit/tp5-getshell
+	url = https://github.com/theLSA/tp5-getshell
+[submodule "payloads/php/b374k"]
+	path = payloads/php/b374k
+	url = https://github.com/b374k/b374k.git
